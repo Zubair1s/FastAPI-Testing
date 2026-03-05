@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Smart Coffee Machine",
+        "industry": "Food & Beverage",
+        "budget": 5000
+    },
+    "3": {
+        "id": "3",
+        "name": "string",
+        "industry": "no a string",
+        "budget": 0.0
+    },
+    "4": {
+        "id": "4",
+        "name": "Virtual Fitness Coach",
+        "industry": "Health & Wellness",
+        "budget": 6000
+    },
+    "5": {
+        "id": "5",
+        "name": "Smart Home Security System",
+        "industry": "Home Automation",
+        "budget": 12000
+    },
+    "6": {
+        "id": "6",
+        "name": "string",
+        "industry": "string",
+        "budget": 0.0
+    },
+    "7": {
+        "id": "7",
+        "name": "Fast",
+        "industry": "What",
+        "budget": 10.0
+    }
+}
